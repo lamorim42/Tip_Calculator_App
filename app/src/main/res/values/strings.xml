@@ -5,4 +5,7 @@
     <string name="amazing_20">Incrível (20%)</string>
     <string name="good_18">Bom (18%)</string>
     <string name="ok_15">OK (15%)</string>
+    <string name="round_up_tip">Arredondar gorjeta?</string>
+    <string name="calculate">Calcular</string>
+    <string name="tip_amount">Valor da gorjeta</string>
 </resources>
