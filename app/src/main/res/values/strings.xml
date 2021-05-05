@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="valor_da_conta_text">Valor da conta</string>
+    <string name="how_was_the_service">Como avalia o serviço?</string>
+    <string name="amazing_20">Incrível (20%)</string>
+    <string name="good_18">Bom (18%)</string>
+    <string name="ok_15">OK (15%)</string>
+</resources>
