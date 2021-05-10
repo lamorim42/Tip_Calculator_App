@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="vinho">#FF880e4f</color>
+    <color name="vinho_light">#FFbc477b</color>
+    <color name="vinho_dark">#FF560027</color>
+    <color name="bege">#FFffe0b2</color>
+    <color name="bege_light">#FFffffe4</color>
+    <color name="bege_dark">#FFcbae82</color>
 </resources>
