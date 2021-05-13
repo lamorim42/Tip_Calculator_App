@@ -3,7 +3,7 @@ Nesse projeto trabalhamos um pouco mais a interação entre a MainActivity e lay
 O Tip_Calculator é um app onde o usuario irá calcular a gorjeta com base no valor do serviço e como ele avaliou o serviço.
 
 ## Imagens do App:
-<img src= "https://github.com/luishads/Tip_Calculator_App/blob/master/TipCalculator_photo01.png" width="285px" height="500px"/> <img src= "https://github.com/luishads/Tip_Calculator_App/blob/master/TipCalculator_photo02.png" width="285px" height="500px"/> <img src= "https://github.com/luishads/Tip_Calculator_App/blob/master/TipCalculator_photo03.png" width="285px" height="500px"/> 
+<img src= "https://github.com/luishads/Tip_Calculator_App/blob/UI_Improve_main/TipCalculator_photo04.png" width="285px" height="500px"/> 
 
 
 <h1>activity_main.xml</h1>
