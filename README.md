@@ -1,34 +1,11 @@
-# Tip_Calculator_App
-Nesse projeto trabalhamos um pouco mais a interação entre a MainActivity e layout construido com o activity_main.xml. Alem disso usamos o viewBinding para fazer as chamadas de elementos da UI diretamente pelo id sem precisar do método findViewById().
-O Tip_Calculator é um app onde o usuario irá calcular a gorjeta com base no valor do serviço e como ele avaliou o serviço.
+# Tip_Calculator_App_UI_Improve
+Nessa etapa o app já está funcional, mas vamos melhorar a experiencia do usuário. Agora vamos mudar o ícone do app, o tema usando os princípios do Material Design e aplicar estilo a uma view.
 
 ## Imagens do App:
-<img src= "https://github.com/luishads/Tip_Calculator_App/blob/UI_Improve_main/TipCalculator_photo04.png" width="285px" height="500px"/> 
+<img src= "https://github.com/luishads/Tip_Calculator_App/blob/UI_Improve_main/TipCalculator_photo05.png" width="285px" height="500px"/> 
+<img src= "https://github.com/luishads/Tip_Calculator_App/blob/UI_Improve_main/TipCalculator_photo06.png" width="285px" height="500px"/> 
 
 
-<h1>activity_main.xml</h1>
-Esse layout apresenta vários elementos, são eles:
-<ul>
-  <li>EditText</li>
-  <li>TextView</li>
-  <li>RadioGroup</li>
-  <li>RadioButton</li>
-  <li>Switch</li>
-  <li>Button</li>
-</ul>
+Veja em detalhes no <a href = "https://github.com/luishads/Tip_Calculator_App/tree/UI_Improve_main" target="_blank">github</a>.
 
-Veja em detalhes no arquivo <a href = "https://github.com/luishads/Tip_Calculator_App/blob/master/app/src/main/res/layout/activity_main.xml" target="_blank">activity_main.xml</a>.
-Nesse layout podemos perceber muito bem definido o conceito de ViewGroup. <a href ="https://web.digitalinnovation.one/articles/entendendo-viewgoup-e-activity-com-o-app-dice_roller?back=%2Farticles&page=1&order=oldest">Veja mais sobre ViewGroup aqui</a>.
-
-<h3>EditText</h3>
-É onde o usuário coloca a informação do valor do serviço.
-
-<h3>RadioGroup & RadioButton's</h3>
-É onde o usuário avalia o serviço em incrível, bom ou ok.
-
-<h3>Switch</h3>
-É uma opção que o usuário tem de arredondar a conta.
-
-<h1>MainActivity</h1>
-Aqui é onde a "mágica" acontece. É onde está todo o comportamento do app, é onde está a lógica para o cálculo da gorjeta.
-E é onde usamos o recurso viewBinding. Veja em detalhes no arquivo <a href = "https://github.com/luishads/Tip_Calculator_App/blob/master/app/src/main/java/com/example/tipcalculator/MainActivity.kt" target="_blank">MainActivity.kt</a>.
+Nesse momento, onde refinamos a experiencia do usuário no app, modificamos principamete os arquivos <a href = "https://github.com/luishads/Tip_Calculator_App/blob/UI_Improve_main/app/src/main/res/values/themes.xml" target="_blank">themes.xml</a>, <a href="https://github.com/luishads/Tip_Calculator_App/blob/UI_Improve_main/app/src/main/res/values/colors.xml" target="_blank">colors.xml</a>, <a href="https://github.com/luishads/Tip_Calculator_App/blob/UI_Improve_main/app/src/main/res/layout/activity_main.xml" target="_blank">activity_main.xml</a> e a criação do <a href="https://github.com/luishads/Tip_Calculator_App/blob/UI_Improve_main/app/src/main/res/values/style.xml" target="_blank">style.xml</a> onde estilizamos os textos da view.
